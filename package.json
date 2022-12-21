@@ -39,7 +39,7 @@
     "vite": "^4.0.2"
   },
   "peerDependencies": {
-    "vite": "^3"
+    "vite": "^4.0.2"
   },
   "eslintConfig": {
     "extends": [
